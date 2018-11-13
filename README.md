@@ -9,6 +9,7 @@ Sample website.
 ## How to Contribute
 
 How to contribute paragraph.
+Adding new one.
 
 ## Deployment
 
