@@ -13,3 +13,7 @@ How to contribute paragraph.
 ## Deployment
 
 Deployment paragraph.
+
+## Copyright
+
+2018. Copyright
